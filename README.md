@@ -118,7 +118,7 @@ http://localhost:5173
 
 ## 👨‍💻 Author
 
-**Mansoor**
+**Mansoor Sadhik**
 
 GitHub: [@Mansoorsk12](https://github.com/Mansoorsk12)
 
